@@ -1,6 +1,8 @@
 # GFetch
 Minimalist System Information
 
+![GFetch v1.0](ss.png)
+<br>
 [![Version](https://img.shields.io/badge/GFetch-1.0-brightgreen.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-red.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu-blue.svg)]()
